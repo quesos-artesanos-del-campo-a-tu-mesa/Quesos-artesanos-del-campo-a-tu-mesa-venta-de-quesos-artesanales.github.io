@@ -1,0 +1,110 @@
+/* styles.css */
+body {
+    font-family: 'Didot', sans-serif;
+    background-color: #f9f9f9;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff0000;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    width: 4500px; /* Ajusta el tamaño de tu logo */
+    margin-left: 1100px; /* Mueve la imagen hacia la derecha 20 píxeles */
+    margin-top: -45px; /* Mueve el logo hacia arriba 20 píxeles */
+ 
+    /* estilos.css */
+img {
+    width: 500px;
+}
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.queso-card {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.queso-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.queso-card h3 {
+    font-size: 24px;
+    color: rgb(0, 110, 255);
+}
+
+.queso-card p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+footer {
+    background-color: #ffadad;
+    text-align: center;
+    padding: 10px;
+    color: #1d1a1a;
+}
+
+h1 {
+    color: #000000; /* Cambia #ff4500 al código de color que desees */
+}
+
+/* Estilos adicionales para los enlaces y otros elementos pueden ser agregados según tus preferencias. */
+/* styles.css */
+
+/* ... (código existente) */
+
+/* Modifica los colores de la barra de navegación */
+
+nav a {
+    color: #861a23; /* Color del texto en la barra de navegación */
+    text-decoration: none;
+    
+}
+
+/* Estilos adicionales para los enlaces y otros elementos pueden ser agregados según tus preferencias. */
+    /* Cambia la ruta de la imagen a tu propio archivo */
+    img {
+        width: 210px;
+        height: 200px;
+    }
